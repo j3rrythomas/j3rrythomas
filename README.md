@@ -6,6 +6,11 @@
   <img alt="Jerry's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=j3rrythomas&count_private=true&show_icons=true&theme=dark" />
 </p>
 
+
+<p align="center">
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3rrythomas&layout=compact&theme=dark" />
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jerry-thomas-john-23463b190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jerrythomasjohn9@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
