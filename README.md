@@ -3,11 +3,6 @@
 <h2>Student 🧑‍🎓 , Web Developer 💻</h2>
 
 <p align="center">
-  <img alt="Jerry's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=j3rrythomas&count_private=true&show_icons=true&theme=dark" />
-</p>
-
-
-<p align="center">
   <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3rrythomas&layout=compact&theme=dark" />
 </p>
 
